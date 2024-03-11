@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! Welcome to my GitHub profile! 👋, I'm Suresh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BoppaniSuresh&label=Profile%20views&color=0e75b6&style=flat" alt="BoppaniSuresh" /> </p>
-<h3 align="center">A passionate Data Scientist from India. Interested in working on backend, API's, and any web development projects.</h3>
+<h3 align="center">Deep Learning Enthusiast</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-- 🔭 I'm currently diving deep into the fascinating world of **GANs** and **NILM**. Exploring the realms of artificial intelligence and energy analytics, I'm passionate about unraveling the mysteries of GANs to generate synthetic data and enhancing NILM techniques for efficient energy management.
+- 🔭 I'm currently diving deep into the fascinating world of **Transformers**, **GANs** and **NILM**.
 
-- 🌱 Additionally, I'm working extensively on **ozone** forecasting using **graph neural networks** and **hypergraphs**. Leveraging the power of graph-based approaches, I aim to improve the accuracy and reliability of ozone predictions, contributing to better environmental management and public health initiatives. 
+- 🌱 Additionally, I'm working extensively on **ozone** forecasting using **graph neural networks** and **hypergraphs**.
 
 - 👯 I’m looking to collaborate with **other developers on Deep Learning**
 
